@@ -11,8 +11,6 @@
 - ( English, Spanish, Portuguese, Learing French)
 <br />
 <br />
-<br />
-<br />
 
 ### Languages and Tools:
 <div>
