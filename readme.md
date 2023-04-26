@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages
-- ( <img align="left top" alt="EUA" width="20px" src="https://static.vecteezy.com/system/resources/thumbnails/000/532/212/small/usa-01.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://static.vecteezy.com/system/resources/previews/002/417/843/original/illustration-of-the-spanish-flag-free-vector.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://static.vecteezy.com/system/resources/thumbnails/001/925/387/small/brazil-flag-isolate-banner-print-art-vector.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://static.vecteezy.com/system/resources/thumbnails/001/925/425/small/france-flag-isolate-banner-print-illustration-vector.jpg" />  Learning French)
+- <img align="left top" alt="EUA" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" />  Learning French
 <br />
 <br />
 
