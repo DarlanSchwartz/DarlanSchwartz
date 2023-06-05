@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" width="450" height="300" />
  
 ## I'm a Developer, Gamer, Welder and Carpenter
-- ✍ You can find my projects here [Work in progress]
+- ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
 - 🌱 I’m currently learning React Native at Driven Education
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
