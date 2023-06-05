@@ -34,12 +34,11 @@
 <br />
 <br />
 <br />
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Darlan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DarlanSchwartz&show_icons=true&hide_border=true" />
 
-</details>
 
 <details>
   <summary>:zap: Most Used Languages</summary>
