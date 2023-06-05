@@ -31,18 +31,10 @@
 
 <br />
 <br />
-<br />
-<br />
-<br />
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Darlan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DarlanSchwartz&show_icons=true&hide_border=true" />
+ <summary>:zap: Most Used Languages</summary>
+ <br />
+<img alt="Darlan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanSchwartz" />
 
 
-
-
-  <summary>:zap: Most Used Languages</summary>
-
-<img align="left" alt="Darlan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanSchwartz" />
 
