@@ -2,7 +2,7 @@
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" width="450" height="300" />
  
-## I'm a Developer, Gamer and 
+## I'm a Developer, Gamer and Carpenter
 - ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
 - 🌱 I’m currently learning about Restful API's and Databases.
 - 👯 I’m looking to collaborate on open source
@@ -29,7 +29,7 @@
 <img align="left" alt="Unity" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/unity.png" />
 <img align="left" alt="VS Community" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/community.png" />
 <img align="left" alt="Photoshop" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/photoshop.jpeg" />
-<img align="left" alt="Blender" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/blender.png" />
+<img align="left" alt="Blender" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/blender2.png" />
 
 </div>
 
@@ -39,6 +39,3 @@
  <summary>  :zap: Most Used Languages</summary>
  <br />
 <img alt="Darlan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanSchwartz" />
-
-
-
