@@ -4,7 +4,7 @@
  
 ## I'm a Developer, Gamer and Carpenter
 - ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
-- 🌱 I’m currently learning about Restful API's and Databases.
+- 🌱 Learning Restful API's and Databases.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages
