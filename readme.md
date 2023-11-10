@@ -67,13 +67,13 @@
         />
         <img width="12" /> Typescript
       </td>
-      <td>
+          <td>
         <img
-          src="https://skillicons.dev/icons?i=express"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
           height="40"
-          alt="express logo"
+          alt="html5 logo"
         />
-        <img width="12" /> Express
+        <img width="12" /> HTML
       </td>
       <td>
         <img
@@ -102,6 +102,14 @@
         />
         <img width="12" /> Node.js
       </td>
+            <td>
+        <img
+          src="https://skillicons.dev/icons?i=express"
+          height="40"
+          alt="express logo"
+        />
+        <img width="12" /> Express
+      </td>
       <td>
         <img
           src="https://skillicons.dev/icons?i=nextjs"
@@ -109,14 +117,6 @@
           alt="nextjs logo"
         />
         <img width="12" /> Next.js
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-          height="40"
-          alt="html5 logo"
-        />
-        <img width="12" /> HTML
       </td>
     </tr>
     <tr>
