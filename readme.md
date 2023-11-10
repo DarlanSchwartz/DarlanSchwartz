@@ -227,7 +227,7 @@
       </td>
       <td>
         <img
-          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/prisma.png"
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/prisma2.png"
           alt="mysql"
           width="40"
           height="40"
@@ -254,7 +254,7 @@
      <tr>
        <td>
         <img
-          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/audacity.png"
+          src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/audacity.png?raw=true"
           height="40"
           alt="audacity logo"
         />
@@ -271,7 +271,7 @@
        </td>
         <td>
         <img
-          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/unity.png"
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/unity2.png"
           height="40"
           alt="jest logo"
         />
