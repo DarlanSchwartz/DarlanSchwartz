@@ -2,9 +2,9 @@
 
  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" width="450" height="300" />
  
-## I'm a Developer, Gamer and Carpenter
+## I'm a Developer and Carpenter
 - ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
-- 🌱 Learning PostgreSQL and Typescript.
+- 🌱 Learning Docker and NestJS.
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I speak 4 languages
@@ -139,6 +139,14 @@
       </td>
        <td>
         <img
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/env.png"
+          height="40"
+          alt="notion logo"
+        />
+        <img width="12" /> .ENV
+      </td>
+       <td>
+        <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"
           height="40"
           alt="jest logo"
@@ -186,6 +194,14 @@
           alt="jest logo"
         />
         <img width="12" /> JIRA
+      </td>
+        <td>
+        <img
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/notion.png"
+          height="40"
+          alt="notion logo"
+        />
+        <img width="12" /> Notion
       </td>
     </tr>
     <tr>
