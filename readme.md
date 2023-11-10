@@ -34,7 +34,7 @@
 <img style="flex-grow:0; flex-shrink:0;" alt="Blender" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/blender2.png" />
 <img style="flex-grow:0; flex-shrink:0;" alt="Jest" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/jest.png" />
 <img style="flex-grow:0; flex-shrink:0;" alt="Figma" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/figma.svg" />
-<img style="flex-grow:0; flex-shrink:0;" alt="Docker" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/docker.png" />
+<img style="flex-grow:0; flex-shrink:0;" alt="Docker" height="26px" src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/docker.png?raw=true" />
 
 </div>
 
