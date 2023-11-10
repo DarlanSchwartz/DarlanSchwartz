@@ -13,7 +13,7 @@
 <br />
 
 ### Languages and Tools:
-<div>
+<div style="display:flex; flex-wrap:wrap">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/csharp.png" />
@@ -31,6 +31,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/visual-studio-code.png" />
 <img align="left" alt="Photoshop" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/photoshop.jpeg" />
 <img align="left" alt="Blender" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/blender2.png" />
+<img align="left" alt="Jest" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/jest.png" />
+<img align="left" alt="Figma" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/figma.svg" />
+<img align="left" alt="Docker" height="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/docker.png" />
 
 </div>
 
