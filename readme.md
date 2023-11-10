@@ -69,14 +69,6 @@
       </td>
       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-          height="40"
-          alt="nodejs logo"
-        />
-        <img width="12" /> Node.js
-      </td>
-      <td>
-        <img
           src="https://skillicons.dev/icons?i=express"
           height="40"
           alt="express logo"
@@ -101,6 +93,14 @@
           alt="react logo"
         />
         <img width="12" /> React
+      </td>
+            <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
+          height="40"
+          alt="nodejs logo"
+        />
+        <img width="12" /> Node.js
       </td>
       <td>
         <img
@@ -151,7 +151,7 @@
           height="40"
           alt="vscode logo"
         />
-        <img width="12" /> Visual Studio Code
+        <img width="12" /> VS Code
       </td>
     </tr>
     <tr>
@@ -171,6 +171,22 @@
         />
         <img width="12" /> GitHub
       </td>
+        <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+          height="40"
+          alt="jest logo"
+        />
+        <img width="12" /> Trello
+      </td>
+        <td>
+        <img
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+          height="40"
+          alt="jest logo"
+        />
+        <img width="12" /> JIRA
+      </td>
     </tr>
     <tr>
       <td>
@@ -188,23 +204,6 @@
           alt="bash logo"
         />
         <img width="12" /> Bash
-      </td>
-      <td>
-        <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-          height="40"
-          alt="docker logo"
-        />
-        <img width="12" /> Docker
-      </td>
-      <td>
-        <img
-          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
-          alt="nginx"
-          width="40"
-          height="40"
-        />
-        <img width="12" /> Nginx
       </td>
          <td>
         <img
@@ -304,23 +303,22 @@
         />
         <img width="12" /> AWS
       </td>
-    </tr>
-    <tr>
-          <td>
+       <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
           height="40"
-          alt="jest logo"
+          alt="docker logo"
         />
-        <img width="12" /> Trello
+        <img width="12" /> Docker
       </td>
-        <td>
+      <td>
         <img
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
+          src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
+          alt="nginx"
+          width="40"
           height="40"
-          alt="jest logo"
         />
-        <img width="12" /> JIRA
+        <img width="12" /> Nginx
       </td>
     </tr>
   </tbody>
