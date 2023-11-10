@@ -57,10 +57,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-    <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/prisma.png" height="40" alt="prisma logo"  />
+    <img src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/prisma.png?raw=true" height="40" alt="prisma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-    <img src=" https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/terminal.png" height="40" alt="terminal logo"  />
+    <img src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/terminal.png?raw=true" height="40" alt="terminal logo"  />
  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
