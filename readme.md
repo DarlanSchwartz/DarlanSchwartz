@@ -227,8 +227,8 @@
       </td>
       <td>
         <img
-          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/prisma2.png"
-          alt="mysql"
+          src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/prisma2.png?raw=true"
+          alt="prisma"
           width="40"
           height="40"
         />
@@ -271,7 +271,7 @@
        </td>
         <td>
         <img
-          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/unity2.png"
+          src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/unity2.png?raw=true"
           height="40"
           alt="jest logo"
         />
