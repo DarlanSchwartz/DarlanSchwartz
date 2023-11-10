@@ -12,7 +12,8 @@
 <br />
 <br />
 <h3 align="left">All Languages and Tools:</h3>
-<table>
+<div align="center">
+<table =>
   <tbody>
   <tr>
    <td>
@@ -339,7 +340,7 @@
     </tr>
   </tbody>
 </table>
-
+</div>
 <br />
 <br />
 
