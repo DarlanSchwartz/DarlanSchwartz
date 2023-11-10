@@ -13,7 +13,7 @@
 <br />
 
 ### Languages and Tools:
-<div>
+<div style="display:flex; flex-wrap:wrap">
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/css.png" />
 <img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/csharp.png" />
