@@ -320,6 +320,14 @@
         />
         <img width="12" /> AWS
       </td>
+      <td>
+        <img
+          src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/vercel.jpg?raw=true"
+          height="40"
+          alt="amazonwebservices logo"
+        />
+        <img width="12" /> Vercel
+      </td>
        <td>
         <img
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
