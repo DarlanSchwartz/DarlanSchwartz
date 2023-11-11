@@ -119,6 +119,14 @@
         />
         <img width="12" /> Next.js
       </td>
+       <td>
+        <img
+          src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/net.jpg"
+          height="40"
+          alt="nextjs logo"
+        />
+        <img width="12" /> .NET
+      </td>
     </tr>
     <tr>
       <td>
