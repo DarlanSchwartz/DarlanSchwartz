@@ -1,4 +1,4 @@
-<div style="display:flex;">
+<div style="display:flex;" align="left">
 
 <div>
 <h3>Hello World, I'm Darlan Schwartz 👋</h1>  
@@ -20,8 +20,8 @@
 <li>
  ⚡ Fun fact: I speak 4 languages
 </li>
-<li>
 
+<li>
 <img align="left top" alt="EUA" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" /> French +/-
 </li>
 
