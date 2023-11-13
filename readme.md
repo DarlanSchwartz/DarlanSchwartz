@@ -11,14 +11,18 @@
 - <img align="left top" alt="EUA" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" /> French +/-
 <br />
 <br />
-<h1>Languages and tools</h1>
-<h3 align="left">Web:</h3>
-<div align="center">
+
+
 <style>
     td{
         border:1px solid;
     }
 </style>
+
+
+<h1>Languages and tools</h1>
+<h3 align="left">Web:</h3>
+<div align="center">
  <table>
     <tbody>
       <tr>
@@ -208,7 +212,7 @@
       </tr>
     </tbody>
   </table>
-  <h3 align="left">Games:</h3>
+  <h3 align="left">Games stack</h3>
   <table>
     <tbody>
       <tr>
@@ -219,8 +223,8 @@
           <img width="12" /> Csharp
         </td>
         <td>
-          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo" />
-          <img width="12" /> Visual Studio Code
+          <img src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/community.png?raw=true" height="40" alt="vscode logo" />
+          <img width="12" /> Visual Studio
         </td>
         <td>
           <img
@@ -260,17 +264,17 @@
             height="40" alt="crazy bump logo" />
           <img width="12" /> Crazy Bump
         </td>
+                <td>
+         <img
+            src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/speedtree.webp"
+            height="40" alt="speedtree studio logo" />
+          <img width="12" /> Speed Tree
+        </td>
         <td>
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/shotcut.png?raw=true"
             height="40" alt="shotcut logo" />
           <img width="12" /> Shotcut
-        </td>
-        <td>
-          <img
-            src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/replica.png?raw=true"
-            height="40" alt="replica logo" />
-          <img width="12" /> Replica
         </td>
         <td>
           <img
@@ -290,7 +294,7 @@
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/makehuman.png"
             height="40" alt="makehuman logo" />
-          <img width="12" /> Makehuman
+          <img width="12" /> MakeHuman
         </td>
         <td>
           <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/android.png" height="40" alt="vscode logo" />
@@ -302,11 +306,15 @@
             height="40" alt="android studio logo" />
           <img width="12" /> Android Studio
         </td>
-        <td>
+ <td>
+          <img
+            src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/replica.png?raw=true"
+            height="40" alt="replica logo" />
+          <img width="12" /> Replica
         </td>
         <td>
         </td>
-        <td>
+          <td>
         </td>
       </tr>
     </tbody>
