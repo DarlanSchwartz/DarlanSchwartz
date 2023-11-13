@@ -202,6 +202,10 @@
       </tr>
       <tr>
         <td style="border:1px solid #30363d;" align="left" dir="row">
+        <img
+            src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/csharp.png"
+            height="28" width="28" alt="csharp logo" />
+           Csharp
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="28" width="28"
@@ -326,6 +330,10 @@
            Replica
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
+         <img
+            src="https://pbs.twimg.com/profile_images/956512664729071617/FNdOzif4_400x400.jpg"
+            height="28" width="28" alt="photon logo" />
+           Photon
         </td>
           <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
