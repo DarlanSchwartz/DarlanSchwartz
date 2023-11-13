@@ -47,180 +47,180 @@
         <th>Others</th>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"
             alt="javascript logo" />
-          <img width="12" /> Javascript
+           Javascript
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"
             alt="react logo" />
-          <img width="12" /> React
+           React
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"
             alt="postgresql logo" />
-          <img width="12" /> Postgresql
+           Postgresql
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"
             alt="git logo" />
-          <img width="12" /> Git
+           Git
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"
             alt="googlecloud logo" />
-          <img width="12" /> Google API
+           Google API
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://skillicons.dev/icons?i=jira" height="40" alt="jira logo" />
-          <img width="12" /> JIRA
+           JIRA
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"
             alt="typescript logo" />
-          <img width="12" /> Typescript
+           Typescript
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"
             alt="nodejs logo" />
-          <img width="12" /> Node.js
+           Node.js
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/prisma2.png?raw=true"
             alt="prisma" width="40" height="40" />
-          <img width="12" /> Prisma
+           Prisma
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
-          <img width="12" /> GitHub
+           GitHub
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
             height="40" alt="amazonwebservices logo" />
-          <img width="12" /> AWS
+           AWS
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40"
             alt="jest logo" />
-          <img width="12" /> Trello
+           Trello
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"
             alt="html5 logo" />
-          <img width="12" /> HTML
+           HTML
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
-          <img width="12" /> Express
+           Express
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"
             alt="redis logo" />
-          <img width="12" /> Redis
+           Redis
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo" />
-          <img width="12" /> VS Code
+           VS Code
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/vercel.jpg?raw=true"
             height="40" alt="vercel logo" />
-          <img width="12" /> Vercel
+           Vercel
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/notion.png"
             height="40" alt="notion logo" />
-          <img width="12" /> Notion
+           Notion
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"
             alt="css3 logo" />
-          <img width="12" /> CSS
+           CSS
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
                 <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/nextjs.png" height="40"
             alt="next logo" />
-          <img width="12" /> Next.js
+           Next.js
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"
             alt="mongodb logo" />
-          <img width="12" /> MongoDB
+           MongoDB
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.simpleicons.org/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-          <img width="12" /> Figma
+           Figma
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"
             alt="docker logo" />
-          <img width="12" /> Docker
+           Docker
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/terminal.png?raw=true"
             alt="terminal logo" width="40" height="40" />
-          <img width="12" /> Terminal
+           Terminal
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/env.png"
             height="40" alt=".ENV logo" />
-          <img width="12" /> .ENV
+           .ENV
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
             alt="nestjs" width="40" height="40" />
-          <img width="12" /> NestJS
+           NestJS
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="40"
             alt="webpack logo" />
-          <img width="12" /> Webpack
+           Webpack
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
             alt="nginx" width="40" height="40" />
-          <img width="12" /> Nginx
+           Nginx
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo" />
-          <img width="12" /> Bash
+           Bash
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40"
             alt="jest logo" />
-          <img width="12" /> Jest
+           Jest
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
         <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/npm.png" alt="babel" width="40" height="40" />
-          <img width="12" /> npm
+           npm
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40" />
-          <img width="12" /> Babel
+           Babel
         </td>
       </tr>
     </tbody>
@@ -229,105 +229,105 @@
   <table>
     <tbody>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/csharp.png"
             height="40" alt="csharp logo" />
-          <img width="12" /> Csharp
+           Csharp
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/community.png?raw=true" height="40" alt="vscode logo" />
-          <img width="12" /> Visual Studio
+           Visual Studio
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/net.jpg"
             height="40" alt=".NET logo" />
-          <img width="12" /> .NET
+           .NET
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/audacity.png?raw=true"
             height="40" alt="audacity logo" />
-          <img width="12" /> Audacity
+           Audacity
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/unity2.png?raw=true"
             height="40" alt="jest logo" />
-          <img width="12" /> Unity
+           Unity
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/photoshop.jpeg"
             height="40" alt="photoshop logo" />
-          <img width="12" /> Photoshop
+           Photoshop
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/blender2.png"
             height="40" alt="blender logo" />
-          <img width="12" /> Blender
+           Blender
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/crazybump.jpg"
             height="40" alt="crazy bump logo" />
-          <img width="12" /> Crazy Bump
+           Crazy Bump
         </td>
-                <td style="border:1px solid #30363d;">
+                <td style="border:1px solid #30363d;" align="left" dir="row">
          <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/speedtree.webp"
             height="40" alt="speedtree studio logo" />
-          <img width="12" /> Speed Tree
+           Speed Tree
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/shotcut.png?raw=true"
             height="40" alt="shotcut logo" />
-          <img width="12" /> Shotcut
+           Shotcut
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/mixamo.webp?raw=true"
             height="40" alt="mixamo logo" />
-          <img width="12" /> Mixamo
+           Mixamo
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/fuse.svg"
             height="40" alt="mixamo fuse logo" />
-          <img width="12" /> Mixamo Fuse
+           Mixamo Fuse
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/makehuman.png"
             height="40" alt="makehuman logo" />
-          <img width="12" /> MakeHuman
+           MakeHuman
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/android.png" height="40" alt="vscode logo" />
-          <img width="12" /> Android
+           Android
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/android-studio.png"
             height="40" alt="android studio logo" />
-          <img width="12" /> Android Studio
+           Android Studio
         </td>
- <td style="border:1px solid #30363d;">
+ <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/replica.png?raw=true"
             height="40" alt="replica logo" />
-          <img width="12" /> Replica
+           Replica
         </td>
-        <td style="border:1px solid #30363d;">
+        <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
-          <td style="border:1px solid #30363d;">
+          <td style="border:1px solid #30363d;" align="left" dir="row">
         </td>
       </tr>
     </tbody>
