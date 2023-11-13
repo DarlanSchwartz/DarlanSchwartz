@@ -1,6 +1,6 @@
 ### Hello World, I'm Darlan Schwartz  👋
 
- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400" height="275" />
+ <img align="right" alt="GIF" src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/main-gif.gif?raw=true" width="400" height="275" />
  
 #### I'm a Developer and Carpenter
 - ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
@@ -24,7 +24,7 @@
       <img align="left" style="heigth:20px" src="https://streak-stats.demolab.com/?user=DarlanSchwartz&theme=react&border=61dafb&hide_border=true" alt="DarlanSchwartz" />
     </a> -->
      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="center" style="height:210px; border-radius:5px;" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="DarlanSchwartz" />
+      <img align="center" style="height:210px; border-radius:5px;" src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/stats.gif?raw=true" alt="DarlanSchwartz" />
     </a>
      <a href="https://github.com/DarlanSchwartz/github-readme-stats">
      <img align="center" style="flex-grow:0; flex-shrink:0;" alt="Darlan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanSchwartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
