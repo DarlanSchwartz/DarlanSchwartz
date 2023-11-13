@@ -301,7 +301,7 @@
           <img
             src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/fuse.svg"
             height="28" alt="mixamo fuse logo" />
-           Mixamo Fuse
+           Fuse
         </td>
       </tr>
       <tr>
