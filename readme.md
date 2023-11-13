@@ -1,6 +1,6 @@
 <div style="display:flex;" align="left">
 
-<div>
+<div style="max-width:50%;">
 <h3>Hello World, I'm Darlan Schwartz 👋</h1>  
 <h4>I'm a Developer and Carpenter</h4>
 
