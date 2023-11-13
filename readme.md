@@ -27,8 +27,6 @@
 
 </ul>
 </div>
-<br />
-<br />
 <img align="right" style="margin-left:20px; border-radius:10px;" alt="GIF" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" width="450" height="300" />
 </div>
 
