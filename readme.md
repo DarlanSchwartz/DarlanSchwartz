@@ -1,34 +1,16 @@
-<div style="display:flex;" align="left">
+### Hello World, I'm Darlan Schwartz  👋
 
-<div style="max-width:50%;">
-<h3>Hello World, I'm Darlan Schwartz 👋</h1>  
-<h4>I'm a Developer and Carpenter</h4>
-
-<ul style="margin:0;padding:0;">
-<li>
- ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">WIP</a>
-</li>
-<li>
- 🌱 Learning Docker and NestJS.
-</li>
-<li>
-👯 I’m looking to collaborate on open source
-</li>
-<li>
-💬 Ask me about ... Anything
-</li>
-<li>
- ⚡ Fun fact: I speak 4 languages
-</li>
-
-<li>
-<img align="left top" alt="EUA" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" /> French +/-
-</li>
-
-</ul>
-</div>
-<img align="right" style="margin-left:20px; border-radius:10px;" alt="GIF" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" width="450" height="300" />
-</div>
+ <img align="right" alt="GIF" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/programmer.gif" width="450" height="300" />
+ 
+#### I'm a Developer and Carpenter
+- ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
+- 🌱 Learning Docker and NestJS.
+- 👯 I’m looking to collaborate on open source
+- 💬 Ask me about ... Anything
+- ⚡ Fun fact: I speak 4 languages
+- <img align="left top" alt="EUA" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" /> French +/-
+<br />
+<br />
 
 
 
@@ -45,7 +27,7 @@
       <img align="center" style="height:210px; border-radius:5px;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="DarlanSchwartz" />
     </a>
      <a href="https://github.com/DarlanSchwartz/github-readme-stats">
-     <img align="center" style="flex-grow:0; flex-shrink:0;" alt="Darlan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanSchwartz&title_color=fff&text_color=ffffff&icon_color=61dafb&bg_color=242e43&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+     <img align="center" style="flex-grow:0; flex-shrink:0;" alt="Darlan's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarlanSchwartz&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=10&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
     </a>
   </div>
 </p>
