@@ -225,7 +225,9 @@
       </tr>
     </tbody>
   </table>
+  </div>
 <h2 align="center">:video_game: Game :video_game:</h2>
+<div align="center">
   <table>
     <tbody>
       <tr>
@@ -236,8 +238,8 @@
            Csharp
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/community.png?raw=true" height="28" alt="vscode logo" />
-           Visual Studio
+          <img src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/community.png?raw=true" height="20" alt="vscode logo" />
+           Visual Studio 
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
@@ -291,7 +293,7 @@
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img
-            src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/mixamo.webp?raw=true"
+            src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/mixamo.png?raw=true"
             height="28" alt="mixamo logo" />
            Mixamo
         </td>
