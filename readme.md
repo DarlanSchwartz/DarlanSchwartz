@@ -31,8 +31,8 @@
 </p>
 <br />
 <br />
-<h1 align="center">Languages and tools</h1>
-<h2 align="center">:earth_americas: Web :earth_americas:</h2>
+<h2 align="center">Languages and tools</h2>
+<h3 align="center">:earth_americas: Web :earth_americas:</h3>
 <div align="center">
  <table>
     <tbody>
@@ -224,7 +224,7 @@
     </tbody>
   </table>
   </div>
-<h2 align="center">:video_game: Game :video_game:</h2>
+<h3 align="center">:video_game: Game Development :video_game:</h3>
 <div align="center">
   <table>
     <tbody>
