@@ -82,15 +82,19 @@
            Typescript
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
+        <div align='center' style="display:flex; align-items:center; gap: 10px;">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" width="28"
             alt="nodejs logo" />
            Node.js
+           </div>
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
+          <div align='center' style="display:flex; align-items:center; gap: 10px;">
           <img
             src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/prisma2.png?raw=true"
             alt="prisma" height="28" width="28" />
            Prisma
+          </div>
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://skillicons.dev/icons?i=github" height="28" width="28" alt="github logo" />
