@@ -32,7 +32,7 @@
 <br />
 <br />
 <h2 align="center">Languages and tools</h2>
-<h3 align="center">:earth_americas: Web :earth_americas:</h3>
+<h3 align="center">  Web  </h3>
 <div align="center">
  <table>
     <tbody>
@@ -71,7 +71,7 @@
            Google API
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://skillicons.dev/icons?i=jira" height="28" width="28" alt="jira logo" />
+          <img src="https://luna1.co/c1de9a.png" height="28" width="28" alt="jira logo" />
            JIRA
         </td>
       </tr>
@@ -228,7 +228,7 @@
     </tbody>
   </table>
   </div>
-<h3 align="center">:video_game: Game Development :video_game:</h3>
+<h3 align="center">Game Development</h3>
 <div align="center">
   <table>
     <tbody>
