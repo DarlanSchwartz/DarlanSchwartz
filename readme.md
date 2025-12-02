@@ -2,13 +2,22 @@
 
  <img align="right" alt="GIF" src="https://github.com/DarlanSchwartz/DarlanSchwartz/blob/main/Github%20readme%20images/main-gif.gif?raw=true" width="400" height="275" />
  
-#### I'm a Developer and Carpenter
-- ✍ You can find my projects here <a href="https://darlanschwartz.github.io/My-Portfolio/">Work in progress</a>
-- 🌱 Learning Docker and NestJS.
-- 👯 I’m looking to collaborate on open source
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact: I speak 4 languages
-- <img align="left top" alt="EUA" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English,  <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" />  Spanish,  <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" />  Portuguese, <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" /> French +/-
+#### I'm a Problem Solver, also known as Software Engineer.
+- First, my code and stats may look outdated because i'm working/using Gitlab in the past few years.
+- 🌱 Currently learning **AWS** (Lambda, EC2, S3, CloudFormation)
+- 🏆 **4x Hackathon Winner** + 1 Second Place (7 participations total as Fullstack Developer)
+- 🔗 **2 Web3 Hackathons** - experienced with blockchain technologies
+- ✈️ **WebSummit 2025 Lisbon** - Won all-expenses-paid trip + tickets
+- 💼 Career Growth: **Mid-Level → Tech Lead** in less than 2 years
+- 🎮 **10+ years** in multiplatform game development
+- 🌐 **5+ years** in web and mobile development (as of 2025)
+- 🧠 Ability to quickly understand and read code in virtually any language
+- 💬 Ask me about anything!
+- 🌍 **Trilingual**: 
+  - <img align="left top" alt="English" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/usa.jpg" /> English
+  - <img align="left top" alt="Spanish" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/spanish.jpg" /> Spanish
+  - <img align="left top" alt="Portuguese" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/brazil.jpg" /> Portuguese (Native)
+<!-- <img align="left top" alt="French" width="20px" src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/france.webp" /> French +/- -->
 <br />
 <br />
 <br />
@@ -68,7 +77,7 @@
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="28" width="28"
             alt="googlecloud logo" />
-           Google API
+           GCP
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://luna1.co/c1de9a.png" height="28" width="28" alt="jira logo" />
@@ -97,14 +106,14 @@
            GitHub
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s"
             height="28" width="28" alt="amazonwebservices logo" />
            AWS
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="28" width="28"
-            alt="jest logo" />
-           Trello
+          <img src="https://cdn.freebiesupply.com/logos/large/2x/asana-1-logo-png-transparent.png" height="28" width="28"
+            alt="asana logo" />
+           Asana
         </td>
       </tr>
       <tr>
@@ -123,7 +132,7 @@
            Redis
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="28" width="28" alt="vscode logo" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="28" width="28" alt="vscode logo" />
            VS Code
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
@@ -172,32 +181,29 @@
         </td>
       </tr>
       <tr>
-        <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img
-            src="https://raw.githubusercontent.com/DarlanSchwartz/DarlanSchwartz/main/Github%20readme%20images/env.png"
-            height="28" width="28" alt=".ENV logo" />
-           .ENV
+       <td style="border:1px solid #30363d;" align="left" dir="row">
+          <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="28" width="28" alt="bash logo" />
+           Bash
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
-            alt="nestjs" height="28" width="28" />
-           NestJS
+          <img src="https://www.iquest.cz/_next/image?url=%2Ftechnology%2Freact-native.png&w=640&q=75"
+            alt="react-native" height="28" width="28" />
+           React-Native
+        </td>
+          <td style="border:1px solid #30363d;" align="left" dir="row">
+          <img src="https://avatars.githubusercontent.com/u/7552965?s=400&v=4" height="28" width="28"
+            alt="mongoose logo" />
+           Mongoose
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
-        </td>
-        <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" height="28" width="28"
-            alt="webpack logo" />
-           Webpack
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/GitLab_icon.svg/1200px-GitLab_icon.svg.png" height="28" width="28"
+            alt="gitlab logo" />
+           GitLab
         </td>
         <td style="border:1px solid #30363d;" align="left" dir="row">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg"
             alt="nginx" height="28" width="28" />
            Nginx
-        </td>
-        <td style="border:1px solid #30363d;" align="left" dir="row">
-          <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="28" width="28" alt="bash logo" />
-           Bash
         </td>
       </tr>
       <tr>
