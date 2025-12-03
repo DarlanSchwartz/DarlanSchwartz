@@ -5,7 +5,7 @@
 #### I'm a Problem Solver, also known as Software Engineer.
 - First, my code and stats may look outdated because i'm working/using Gitlab in the past few years.
 - 🌱 Currently learning **AWS** (Lambda, EC2, S3, CloudFormation)
-- 🏆 **4x Hackathon Winner** + 1 Second Place (7 participations total as Fullstack Developer)
+- 🏆 **3x Hackathon Winner** + 1 Second Place +1 Third Place +1 Fifth Place (7 participations total as Fullstack Developer)
 - 🔗 **2 Web3 Hackathons** - experienced with blockchain technologies
 - ✈️ **WebSummit 2025 Lisbon** - Won all-expenses-paid trip + tickets
 - 💼 Career Growth: **Mid-Level → Tech Lead** in less than 2 years
